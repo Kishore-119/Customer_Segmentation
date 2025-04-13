@@ -26,9 +26,4 @@ Used the **Mall Customers** dataset containing:
 4. **Clustering**: Applied **K-Means Clustering**.
 5. **Visualization**: Visualized customer clusters in a 2D scatter plot.
 
-## 🧪 How to Run
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/customer-segmentation-kmeans.git
-   cd customer-segmentation-kmeans
